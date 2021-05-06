@@ -1,0 +1,11 @@
+{
+    "subject_ids": [
+        "2650011441608878210"
+    ],
+    "timestep": 0.003,
+    "task_ids": ["6P", "B1", "4P"],
+    "respath": "",
+    "gosumd_exe": "",
+    "data_path": "",
+    "num_cores": 2
+}
